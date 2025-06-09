@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-SQL Complexity Report Reader & PySpark Transpiler
-Reads the latest SQL complexity report CSV, displays files by complexity level,
-and transpiles selected SQL files to PySpark using Gemini AI.
-"""
-
 import os
 import glob
 import pandas as pd
