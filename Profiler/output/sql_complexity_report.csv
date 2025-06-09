@@ -1,0 +1,51 @@
+filename,lines_of_code,complexity_score,classification,score_detail,reason,joins,ctes,subqueries,window_functions,unions,case_statements,aggregates,having_clauses,exists_clauses,recursive_ctes,pivots,dynamic_sql
+query_049.sql,648,720,Complex,"LOC=648, Complexity=720","Large script (>500 LOC), with many complex patterns",108,36,108,36,0,0,72,0,0,0,0,0
+query_044.sql,630,700,Complex,"LOC=630, Complexity=700","Large script (>500 LOC), with many complex patterns",105,35,105,35,0,0,70,0,0,0,0,0
+query_046.sql,594,660,Complex,"LOC=594, Complexity=660","Large script (>500 LOC), with many complex patterns",99,33,99,33,0,0,66,0,0,0,0,0
+query_047.sql,594,660,Complex,"LOC=594, Complexity=660","Large script (>500 LOC), with many complex patterns",99,33,99,33,0,0,66,0,0,0,0,0
+query_048.sql,594,660,Complex,"LOC=594, Complexity=660","Large script (>500 LOC), with many complex patterns",99,33,99,33,0,0,66,0,0,0,0,0
+query_041.sql,576,640,Complex,"LOC=576, Complexity=640","Large script (>500 LOC), with many complex patterns",96,32,96,32,0,0,64,0,0,0,0,0
+query_042.sql,576,640,Complex,"LOC=576, Complexity=640","Large script (>500 LOC), with many complex patterns",96,32,96,32,0,0,64,0,0,0,0,0
+query_050.sql,558,620,Complex,"LOC=558, Complexity=620","Large script (>500 LOC), with many complex patterns",93,31,93,31,0,0,62,0,0,0,0,0
+query_043.sql,486,540,Complex,"LOC=486, Complexity=540","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",81,27,81,27,0,0,54,0,0,0,0,0
+query_045.sql,486,540,Complex,"LOC=486, Complexity=540","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",81,27,81,27,0,0,54,0,0,0,0,0
+query_026.sql,450,350,Complex,"LOC=450, Complexity=350","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",50,50,50,0,0,0,0,0,0,0,0,0
+query_036.sql,441,343,Complex,"LOC=441, Complexity=343","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",49,49,49,0,0,0,0,0,0,0,0,0
+query_030.sql,423,329,Complex,"LOC=423, Complexity=329","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",47,47,47,0,0,0,0,0,0,0,0,0
+query_032.sql,378,294,Complex,"LOC=378, Complexity=294","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",42,42,42,0,0,0,0,0,0,0,0,0
+query_035.sql,378,294,Complex,"LOC=378, Complexity=294","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",42,42,42,0,0,0,0,0,0,0,0,0
+query_027.sql,342,266,Complex,"LOC=342, Complexity=266","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",38,38,38,0,0,0,0,0,0,0,0,0
+query_040.sql,342,266,Complex,"LOC=342, Complexity=266","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",38,38,38,0,0,0,0,0,0,0,0,0
+query_023.sql,333,259,Complex,"LOC=333, Complexity=259","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",37,37,37,0,0,0,0,0,0,0,0,0
+query_033.sql,297,231,Complex,"LOC=297, Complexity=231","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",33,33,33,0,0,0,0,0,0,0,0,0
+query_022.sql,279,217,Complex,"LOC=279, Complexity=217","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",31,31,31,0,0,0,0,0,0,0,0,0
+query_034.sql,252,196,Complex,"LOC=252, Complexity=196","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",28,28,28,0,0,0,0,0,0,0,0,0
+query_031.sql,243,189,Complex,"LOC=243, Complexity=189","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",27,27,27,0,0,0,0,0,0,0,0,0
+query_039.sql,234,182,Complex,"LOC=234, Complexity=182","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",26,26,26,0,0,0,0,0,0,0,0,0
+query_029.sql,207,161,Complex,"LOC=207, Complexity=161","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",23,23,23,0,0,0,0,0,0,0,0,0
+query_025.sql,198,154,Complex,"LOC=198, Complexity=154","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",22,22,22,0,0,0,0,0,0,0,0,0
+query_028.sql,180,140,Complex,"LOC=180, Complexity=140","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",20,20,20,0,0,0,0,0,0,0,0,0
+query_021.sql,162,126,Complex,"LOC=162, Complexity=126","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",18,18,18,0,0,0,0,0,0,0,0,0
+query_024.sql,153,119,Complex,"LOC=153, Complexity=119","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",17,17,17,0,0,0,0,0,0,0,0,0
+query_037.sql,99,77,Complex,"LOC=99, Complexity=77","Moderate length script (51-500 LOC), very high complexity patterns, with many complex patterns",11,11,11,0,0,0,0,0,0,0,0,0
+query_038.sql,63,49,Medium,"LOC=63, Complexity=49","Moderate length script (51-500 LOC), with many complex patterns",7,7,7,0,0,0,0,0,0,0,0,0
+query_001.sql,31,0,Simple,"LOC=31, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_002.sql,15,0,Simple,"LOC=15, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_003.sql,34,0,Simple,"LOC=34, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_004.sql,50,0,Simple,"LOC=50, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_005.sql,17,0,Simple,"LOC=17, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_006.sql,27,0,Simple,"LOC=27, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_007.sql,37,0,Simple,"LOC=37, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_008.sql,34,0,Simple,"LOC=34, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_009.sql,37,0,Simple,"LOC=37, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_010.sql,34,0,Simple,"LOC=34, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_011.sql,38,0,Simple,"LOC=38, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_012.sql,36,0,Simple,"LOC=36, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_013.sql,30,0,Simple,"LOC=30, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_014.sql,19,0,Simple,"LOC=19, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_015.sql,11,0,Simple,"LOC=11, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_016.sql,36,0,Simple,"LOC=36, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_017.sql,41,0,Simple,"LOC=41, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_018.sql,11,0,Simple,"LOC=11, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_019.sql,33,0,Simple,"LOC=33, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0
+query_020.sql,22,0,Simple,"LOC=22, Complexity=0",Short script (≤50 LOC),0,0,0,0,0,0,0,0,0,0,0,0

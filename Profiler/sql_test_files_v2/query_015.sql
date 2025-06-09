@@ -1,0 +1,11 @@
+SELECT id, name FROM customers WHERE active = 1;
+SELECT id, name FROM customers WHERE active = 1;
+SELECT id, name FROM customers WHERE active = 1;
+SELECT id, name FROM customers WHERE active = 1;
+SELECT id, name FROM customers WHERE active = 1;
+SELECT id, name FROM customers WHERE active = 1;
+SELECT id, name FROM customers WHERE active = 1;
+SELECT id, name FROM customers WHERE active = 1;
+SELECT id, name FROM customers WHERE active = 1;
+SELECT id, name FROM customers WHERE active = 1;
+SELECT id, name FROM customers WHERE active = 1;
