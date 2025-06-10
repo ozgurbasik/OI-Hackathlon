@@ -163,15 +163,19 @@ class SQLToPySparkTranspiler:
             prompt = f"""
 Convert the following SQL code to PySpark code. Requirements:
 
-1. Use proper PySpark DataFrame API syntax
-2. Import necessary PySpark modules at the top (from pyspark.sql import SparkSession, functions as F, types as T, Window)
-3. Assume SparkSession is already created as 'spark'
-4. Use descriptive variable names
-5. Add comments explaining complex transformations
-6. Handle JOINs, window functions, CTEs, and aggregations appropriately
-7. Maintain the original logic and functionality
-8. Format the code properly with proper indentation
-9. Return ONLY the PySpark code, no explanations or markdown
+1. Use proper PySpark DataFrame API syntax.
+2. Import necessary PySpark modules at the top (from pyspark.sql import SparkSession, functions as F, types as T, Window).
+3. Assume SparkSession is already created as 'spark'.
+4. Use descriptive variable names.
+5. Add comments explaining complex transformations.
+6. Handle JOINs, window functions, CTEs, and aggregations appropriately.
+7. Maintain the original logic and functionality.
+8. Format the code properly with proper indentation.
+9. Return ONLY the PySpark code, no explanations or markdown.
+10. File name should be in schema_table format for example : In sql table name is Production.Product then in Pyspark it should be Production_Product.parquet
+11. Path will be /mnt/advdata/AdventureWorks/ + (parquet file name)
+12. Convert into working PySpark only.
+13. Don't write ouput to any location or path
 
 Original SQL filename: {filename}
 
