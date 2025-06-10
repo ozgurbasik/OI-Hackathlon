@@ -320,7 +320,7 @@ def main():
         transpiler = SQLToPySparkTranspiler()
         transpiler.run_transpiler()
         
-        print("\n🎉 Transpilation process completed!")
+        print("\n Transpilation process completed!")
         
     except KeyboardInterrupt:
         print("\n\n⏹️  Process interrupted by user")
