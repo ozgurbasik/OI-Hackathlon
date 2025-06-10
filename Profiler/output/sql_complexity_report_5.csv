@@ -3,9 +3,9 @@ query_007.sql,264,127,Complex,"LOC=264, Complexity=127","High complexity score (
 query_008.sql,292,121,Complex,"LOC=292, Complexity=121","High complexity score (121), large script",24,0,19,2,0,6,19,1,0,0,0,0
 query_006.sql,200,88,Complex,"LOC=200, Complexity=88","High complexity score (88), large script",12,2,7,0,0,14,28,0,0,0,0,0
 query_004.sql,121,72,Complex,"LOC=121, Complexity=72","High complexity score (72), moderate length script",8,1,5,4,0,6,20,0,0,0,0,0
+query_009.sql,124,68,Complex,"LOC=124, Complexity=68","High complexity score (68), moderate length script",10,1,3,0,0,9,29,0,0,0,0,0
 query_010.sql,113,68,Complex,"LOC=113, Complexity=68","High complexity score (68), moderate length script",10,1,3,0,0,9,27,1,0,0,0,0
 query_005.sql,90,42,Medium,"LOC=90, Complexity=42","Medium complexity score (42), moderate length script",5,1,3,0,0,9,13,0,0,0,0,0
-query_009.sql,83,41,Medium,"LOC=83, Complexity=41","Medium complexity score (41), moderate length script",8,1,4,0,0,3,10,0,0,0,0,0
 query_003.sql,21,1,Simple,"LOC=21, Complexity=1","Low complexity score (1), short script",0,0,0,0,0,1,0,0,0,0,0,0
 query_002.sql,20,1,Simple,"LOC=20, Complexity=1","Low complexity score (1), short script",0,0,0,0,0,1,0,0,0,0,0,0
 query_001.sql,7,0,Simple,"LOC=7, Complexity=0","Low complexity score (0), short script",0,0,0,0,0,0,0,0,0,0,0,0

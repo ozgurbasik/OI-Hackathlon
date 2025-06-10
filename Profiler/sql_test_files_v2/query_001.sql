@@ -1,31 +1,7 @@
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
-SELECT id, name FROM customers WHERE active = 1;
+SELECT 
+    p.ProductID,
+    p.Name AS ProductName,
+    p.ProductNumber,
+    p.ListPrice,
+    p.Color
+FROM Production.Product p
